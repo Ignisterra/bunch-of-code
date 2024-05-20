@@ -2,4 +2,4 @@
 
 Training
 
-Vigerene Cypher Decoder (French)
+Vigenere Cypher Decoder (French)
